@@ -13,7 +13,7 @@
 - Analyze data types, statistics, and variable distributions.
 - Gain a comprehensive understanding of the data.
 
-### 3. Data Cleaning & Preprocessing (This might be a separate task)
+### 3. Data Cleaning & Preprocessing
 - Clean and pre-process the data for further analysis.
 - Handle missing values, outliers, and inconsistencies.
 - Prepare the data for modeling.
